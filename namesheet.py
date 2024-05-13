@@ -1,4 +1,4 @@
-roboxcv_members = ["Marmik","Eric","Pranav"]
+roboxcv_members = []
 for name in roboxcv_members:
     print(name)
 
